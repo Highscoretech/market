@@ -292,7 +292,7 @@ body {
             <label for="signup-email">First name</label>
             <input id="name" type="text" name="first_name" placeholder="First name" required>
           </div>
-          <div class="input-block">
+          <div class="input-block"> 
             <label for="signup-email">Last name</label>
             <input id="name" type="text" name="last_name" placeholder="Last name" required>
           </div>
